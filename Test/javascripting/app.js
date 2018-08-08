@@ -1,5 +1,4 @@
 const redCirc = new mojs.Shape({
-   //isShowStart:true,
    left:0,top:0,
     stroke:'red',
     fill:'none',
